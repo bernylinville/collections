@@ -19,3 +19,6 @@
 [submodule "devops-exercises"]
 	path = devops-exercises
 	url = git@github.com:kylechou-dunk/devops-exercises.git
+[submodule "awesome-sre"]
+	path = awesome-sre
+	url = git@github.com:kylechou-dunk/awesome-sre.git

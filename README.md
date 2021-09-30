@@ -4,6 +4,8 @@
 
 [howtheysre](https://github.com/kylechou-dunk/howtheysre)
 
+[awesome-sre](https://github.com/kylechou-dunk/awesome-sre)
+
 [devops-exercises](https://github.com/kylechou-dunk/devops-exercises)
 
 [Awesome Go Books](https://github.com/kylechou-dunk/GoBooks)
