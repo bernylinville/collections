@@ -4,9 +4,17 @@
 
 [howtheysre](https://github.com/kylechou-dunk/howtheysre)
 
+[devops-exercises](https://github.com/kylechou-dunk/devops-exercises)
+
 [Awesome Go Books](https://github.com/kylechou-dunk/GoBooks)
 
 [Algorithms Implemented in GoLang](https://github.com/kylechou-dunk/Go/tree/master)
+
+[Standard Go Project Layout](https://github.com/kylechou-dunk/project-layout)
+
+[google-sre-ebook](https://github.com/kylechou-dunk/google-sre-ebook)
+
+[golangci-lint-action](https://github.com/golangci/golangci-lint-action)
 
 [Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 客户端。](https://github.com/Loyalsoldier/clash-rules)
 

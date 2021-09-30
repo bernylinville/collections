@@ -13,3 +13,9 @@
 [submodule "CS-Awesome-Courses"]
 	path = CS-Awesome-Courses
 	url = git@github.com:kylechou-dunk/CS-Awesome-Courses.git
+[submodule "golang/project-layout"]
+	path = golang/project-layout
+	url = git@github.com:kylechou-dunk/project-layout.git
+[submodule "devops-exercises"]
+	path = devops-exercises
+	url = git@github.com:kylechou-dunk/devops-exercises.git
