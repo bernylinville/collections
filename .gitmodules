@@ -22,3 +22,9 @@
 [submodule "awesome-sre"]
 	path = awesome-sre
 	url = git@github.com:kylechou-dunk/awesome-sre.git
+[submodule "dotfiles"]
+	path = dotfiles
+	url = git@github.com:kylechou-dunk/dotfiles.git
+[submodule "hands-on-DevOps-gen2"]
+	path = hands-on-DevOps-gen2
+	url = git@github.com:kylechou-dunk/hands-on-DevOps-gen2.git

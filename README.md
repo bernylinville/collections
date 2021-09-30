@@ -6,6 +6,8 @@
 
 [awesome-sre](https://github.com/kylechou-dunk/awesome-sre)
 
+[hands-on-DevOps-gen2](https://github.com/kylechou-dunk/hands-on-DevOps-gen2)
+
 [devops-exercises](https://github.com/kylechou-dunk/devops-exercises)
 
 [Awesome Go Books](https://github.com/kylechou-dunk/GoBooks)
@@ -27,6 +29,10 @@
 [Drone](https://github.com/kylechou-dunk/drone)
 
 [awesome list](https://asmcn.icopy.site/)
+
+[dotfiles](https://github.com/kylechou-dunk/dotfiles/tree/master)
+
+[safaribooks](https://github.com/kylechou-dunk/safaribooks)
 
 ## 安卓软件
 
