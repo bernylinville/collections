@@ -1,3 +1,15 @@
 [submodule "Best-websites-a-programmer-should-visit"]
 	path = Best-websites-a-programmer-should-visit
 	url = git@github.com:kylechou-dunk/Best-websites-a-programmer-should-visit.git
+[submodule "golang/GoBooks"]
+	path = golang/GoBooks
+	url = git@github.com:kylechou-dunk/GoBooks.git
+[submodule "golang/Go"]
+	path = golang/Go
+	url = git@github.com:kylechou-dunk/Go.git
+[submodule "howtheysre"]
+	path = howtheysre
+	url = git@github.com:kylechou-dunk/howtheysre.git
+[submodule "CS-Awesome-Courses"]
+	path = CS-Awesome-Courses
+	url = git@github.com:kylechou-dunk/CS-Awesome-Courses.git
